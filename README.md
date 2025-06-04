@@ -1,4 +1,4 @@
-#Desafio 1
+# Desafio 1
 ## Objetivo
 
 Crie uma variável para armazenar o nome e a quantidade de experiência (XP) de um herói, depois utilize uma estrutura de decisão para apresentar alguma das mensagens abaixo:
@@ -17,8 +17,8 @@ Se XP for maior ou igual a 10.001 = Radiante
 Ao final deve se exibir uma mensagem:
 "O Herói de nome **{nome}** está no nível de **{nivel}**"
 
-##Desafio 2
-##Calculadora de partidas Rankeadas
+# Desafio 2
+## Calculadora de partidas Rankeadas
 **O Que deve ser utilizado**
 
 - Variáveis
